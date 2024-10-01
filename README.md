@@ -4,7 +4,7 @@ This Python script scans your local network for devices, logs the details (IP, M
 
 ## Features
 
-- Scans the local network using the ARP table.
+- Scans the local network.
 - Retrieves the hostname and vendor information for each device.
 - Logs the device information to an Excel file.
 - Automatically adjusts column widths and adds filters to the Excel file.
